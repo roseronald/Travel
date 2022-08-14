@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/../../../NOSCE_FOR/pythonProject/Inmakes_django/.idea/Inmakes_django.iml" filepath="$PROJECT_DIR$/../../../NOSCE_FOR/pythonProject/Inmakes_django/.idea/Inmakes_django.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../../inmakes2/inmakesweb/.idea/inmakesweb.iml" filepath="$PROJECT_DIR$/../../inmakes2/inmakesweb/.idea/inmakesweb.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/travel.iml" filepath="$PROJECT_DIR$/.idea/travel.iml" />
+    </modules>
+  </component>
+</project>
